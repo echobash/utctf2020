@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Mar  9 16:10:37 2020
+Invocation: foremost -T Griffith_Observatory.png 
+Output directory: /opt/utctf2020/forensics/observe/output_Mon_Mar__9_16_10_37_2020
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Griffith_Observatory.png
+Start: Mon Mar  9 16:10:37 2020
+Length: 127 KB (130522 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000249.zip 	       2 KB 	     127759 	 
+1:	00000000.png 	     124 KB 	          0 	  (320 x 155)
+Finish: Mon Mar  9 16:10:37 2020
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Mar  9 16:10:37 2020
